@@ -1,19 +1,19 @@
 TITLE
-🎧 | [MUSIC TITLE HERE]
+🎧 | Breaking Chains 0xA172
 
 
 
 
 DESCRIPTION
-[DESCRIPTION HERE THAT CAN BE POSTED ON SOCIAL MEDIA]
+Need some space from that tiring office politics? Here's a track for you. Designed by combining dance vocal and video making background music.
 
-#electronicmusic #soundtrack
+#soundtrack #electronicpop #longing #passionate #femalevocal
 
 
 § COLLECTIONS
 ━━━━━━━━━━━━
-Album Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
-Genre Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
+Album Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAjNS99prceQ4qAq-_H-Xj7a
+Genre Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAjALDxuCrPbpVheObmrGeqe
 
 
 § METADATA
@@ -21,7 +21,7 @@ Genre Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
 Music made in: https://www.udio.com/
 Project by: (Holloway) Chew, Kean Ho
 Music License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
-Repository: [REPOSITORY_HERE]
+Repository: https://github.com/ChewKeanHo/soundtracks-breaking-chains-0xa172
 
 
 § FAQ
@@ -64,4 +64,4 @@ I just see A.I. is the next step forward and I want it to augment me; not resist
 
 
 TAGS
-electronicmusic, soundtrack
+soundtrack, electronic pop, dance trance, party, big beat, anthemic, atomospheric, ethereal, lush, melodic, beautiful, with trance vocals and ambient break, warm, passionate, hedonistic, longing, female vocalist
